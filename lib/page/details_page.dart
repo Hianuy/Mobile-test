@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rick_and_morty/model/character.dart';
 
+// ignore: must_be_immutable
 class DetailsPage extends StatelessWidget {
   Character character;
 
