@@ -13,10 +13,5 @@ import 'package:rick_and_morty/page/home.dart';
 
 void main() {
 
-  test('description',() async{
-    CharacterApi.getCharacter(query);
-    expect(, matcher)
-  });
-
 }
 
